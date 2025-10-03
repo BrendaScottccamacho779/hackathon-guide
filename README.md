@@ -41,3 +41,5 @@ Looking to get funding post-hackathon? Here's a list of different grant opportun
 You can find more information on opportunities on the Web3 Foundation [Funding and Support](https://web3.foundation/funding-support) page.
 
 To continue growing with Polkadot, apply to participate in the next [Polkadot Blockchain Academy Campus](https://polkadot.academy/pba-campus/) dApp cohort!
+
+<!-- Auto-update: 2025-10-03T12:09:08.996120 -->
