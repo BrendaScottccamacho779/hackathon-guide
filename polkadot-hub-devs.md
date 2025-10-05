@@ -101,3 +101,5 @@ Jumpstart your **smart contract dApp** with these templates:
 - If using AI tools like LLMs, remember to direct them to use the most [up-to-date documentation](https://docs.polkadot.com/).
 
 - Especially if you are using Claude, [this document](https://www.kusamahub.com/downloads/LLMCONTRACTS.md) contains configuration settings for using the testnet to deploy smart contracts, and we recommend informing your LLM to refer to it.  
+
+<!-- Auto-update: 2025-10-05T14:11:59.143531 -->
